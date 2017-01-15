@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "bb74_marshmallow:marshmallow_block"
+    }
+  }
+}

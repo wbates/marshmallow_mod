@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bb74_marshmallow",
+  "name": "Marshmallow",
+  "description": "Marshmallow Mods",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bill Bates"],
+  "credits": "Bill with the assistance of Minecraft Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

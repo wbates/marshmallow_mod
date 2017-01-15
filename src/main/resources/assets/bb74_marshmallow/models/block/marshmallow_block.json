@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "bb74_marshmallow:blocks/marshmallow_block",
+    "down": "bb74_marshmallow:blocks/marshmallow_block_top",
+    "up": "bb74_marshmallow:blocks/marshmallow_block_top",
+    "north": "bb74_marshmallow:blocks/marshmallow_block",
+    "east": "bb74_marshmallow:blocks/marshmallow_block",
+    "south": "bb74_marshmallow:blocks/marshmallow_block",
+    "west": "bb74_marshmallow:blocks/marshmallow_block"
+  }
+}
